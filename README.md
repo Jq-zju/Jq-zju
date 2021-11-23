@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  .red {color: red}
-</style>
-###### RED {#identifier .red} 
   
